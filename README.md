@@ -1,4 +1,6 @@
-1. For this project, you must use the same Verilog code from the [Post-Synthesis-Evaluation]<https://github.com/mahbod-afarin/Post-Synthesis-Evaluation> project.
+# Physical Design and Layout Flow Using Cadence for Synthesized Digital Circuits
+
+1. For this project, you must use the same Verilog code from the [Post-Synthesis-Evaluation](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) project.
 2. You will need the `.sdc` file, which is the output of the first part (synthesis of the circuit using Design Compiler).
 3. In the SoC tool, define the floorplan and place the initial metal and power layers.
 4. After routing, place the synthesized cells of the design on the die.
