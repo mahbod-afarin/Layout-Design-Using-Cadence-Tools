@@ -1,0 +1,8 @@
+################################################
+#                                              #
+# Silicon Perspective, A Cadence Company       #
+# FirstEncounter Design Restore script         #
+#    for design session: /home/icic/Desktop/vlsi4/s15850_final-no_error.enc                     
+#                                              #
+################################################
+restoreDesign /home/icic/Desktop/vlsi4/s15850_final-no_error.enc.dat s15850
