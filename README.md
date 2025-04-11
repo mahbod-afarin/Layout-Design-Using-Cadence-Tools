@@ -74,23 +74,3 @@
 ## 📐 Die Size Exploration
 
 Using trial and error, the optimal die size was found to be approximately: 390µm × 390µm
-
-## 📸 Screenshots
-
-### Floorplan with Power Rings  
-![Floorplan](./screenshots/floorplan.png)
-
-### Final Layout with Routing  
-![Routing](./screenshots/final_routing.png)
-
-### Timing Analysis Report  
-![Timing](./screenshots/timing_report.png)
-
----
-
-## 🧾 Notes
-
-- Antenna fixing was done using **diode cells**.
-- All files have been saved at each stage and are attached in this repository under the `/outputs/` folder.
-
-
