@@ -11,6 +11,8 @@
 
 ## 🛠️ Design Flow Steps
 
+You can find the final report of this project [here](https://github.com/mahbod-afarin/Layout-Design-Using-Cadence-Tools/blob/main/Report.pdf).
+
 ### 1. **Design Import**
 - Launch `encounter` from terminal.
 - Import files:
